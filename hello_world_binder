@@ -1,1 +1,4 @@
 print('Hello world')
+pip install bruges
+pip install obspy
+
